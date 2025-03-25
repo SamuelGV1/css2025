@@ -6,6 +6,7 @@
 .container{
     width: 70%;
     margin: auto; /*Centrar pagina*/ 
+    overflow: hidden;
 }
 
 section{
